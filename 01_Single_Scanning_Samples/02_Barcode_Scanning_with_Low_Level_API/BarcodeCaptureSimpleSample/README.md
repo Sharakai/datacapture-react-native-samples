@@ -1,3 +1,18 @@
+# Expo 55 + Scandit 8.3.1 + useFrameworks build error
+
+![Build error](./build-error.png)
+
+
+## Changes:
+
+[Commit 1901b41](https://github.com/Sharakai/datacapture-react-native-samples/commit/1901b41571f55adaecbbc61ab008c4bfc505c407)
+
+- Expo dependencies upgraded to latest 55.x
+- `useFrameworks: "static"` added to Podfile via `expo-build-properties` plugin (see [app.json](./app.json))
+
+
+---
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).

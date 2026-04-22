@@ -1,3 +1,13 @@
+# Expo 55 + Scandit 8.3.1 + useFrameworks build error
+
+![Build error](./01_Single_Scanning_Samples/02_Barcode_Scanning_with_Low_Level_API/BarcodeCaptureSimpleSample/build-error.png)
+
+**Reproduction can be found in the [01_Single_Scanning_Samples/02_Barcode_Scanning_with_Low_Level_API/BarcodeCaptureSimpleSample](./01_Single_Scanning_Samples/02_Barcode_Scanning_with_Low_Level_API/BarcodeCaptureSimpleSample) directory.**
+
+
+---
+
+
 # Scandit React Native Samples
 
 This repository contains both simple and advanced samples that show you how use various features of the Scandit Data Capture SDK. The simple samples allow you to get going quickly, while the advanced samples show you how to use additional settings and setup the scanner for the best performance and user experience.
