@@ -29,6 +29,7 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
+      "./expo-plugins/with-scandit-mod",
       [
         "expo-build-properties",
         {
